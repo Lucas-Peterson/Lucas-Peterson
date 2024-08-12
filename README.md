@@ -1,6 +1,7 @@
 ## Hi there 👋 I am Lucas Peterson 
 <img src = https://www.codewars.com/users/Sacred_pL/badges/large>
 
+tg - @Sacred_pL
 <!--
 **Lucas-Peterson/Lucas-Peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
