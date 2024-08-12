@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Lucas Peterson 
 
 ##  About Me
-I am 16 y.o schoolchild, i am learning data science with python. Also have interest in Telegram Bots. Right now live in Germany. Have 680 points in the Codewars. Started this github profile, when tried to make a small shooter game in UE4 with my friends. 
+I am 16 y.o schoolkid, i am learning data science with python. Also have interest in Telegram Bots. Right now live in Germany. Have 680 points in the Codewars. Started this github profile, when tried to make a small shooter game in UE4 with my friends. 
 
 
 ##  Interests
