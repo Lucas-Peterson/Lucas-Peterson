@@ -17,7 +17,7 @@ Python, Aiogram, Asyncio, Matplotlib, Pandas and Sklearn (learning)
 
 ## Work on
 
-[My Analys](https://github.com/Lucas-Peterson/my-Analys)
+- **[My Analys](https://github.com/Lucas-Peterson/my-Analys)**
 
 <img src = https://www.codewars.com/users/Sacred_pL/badges/large>
 
