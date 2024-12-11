@@ -15,10 +15,9 @@ I am 16 y.o, i am learning data science with python. Also have interest in Teleg
 Python, Aiogram, Asyncio, Matplotlib, Pandas and Sklearn (learning)
 
 
+## Work on
 
-
-
-
+[My Analys](https://github.com/Lucas-Peterson/my-Analys)
 
 <img src = https://www.codewars.com/users/Sacred_pL/badges/large>
 
