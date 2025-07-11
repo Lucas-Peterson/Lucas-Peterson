@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Lucas Peterson 
 
 ##  About Me
-I am 17 y.o, i am learning data science with python. Also have interest in Telegram Bots. Right now live in Germany. Have 950+ points in the Codewars. Started this github profile, when tried to make a small shooter game in UE4 with my friends. 
+I'm a 17-year-old student in Germany who wants to become a data scientist. Ever since I began coding at the age of 14, I have developed a strong interest in Python, technology, and problem-solving I earned 1000+ points in codewars. My journey started when I attempted to create a small shooter game in Unreal Engine 4 with friends,. Since then, I've turned my attention to machine learning and data analysis.
 
 
 ##  Interests
@@ -12,7 +12,7 @@ I am 17 y.o, i am learning data science with python. Also have interest in Teleg
 - **Languages** I speak/learn 3 languages: Russian, English and German.
 
 ## Languages and Technologies
-Python, Aiogram, Asyncio, Matplotlib, Pandas and Sklearn (learning)
+Python, Aiogram, Asyncio, Matplotlib, Pandas and Sklearn 
 
 
 ## Work on
