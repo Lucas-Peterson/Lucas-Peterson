@@ -12,7 +12,7 @@ I'm a 17-year-old student in Germany who wants to become a data scientist. Ever 
 - **Languages** I speak/learn 3 languages: Russian, English and German.
 
 ## Languages and Technologies
-Python, Aiogram, Asyncio, Matplotlib, Pandas and Sklearn 
+Python, Asyncio, Matplotlib, Pandas and Sklearn 
 
 
 ## Work on
