@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Lucas Peterson 
 
 ##  About Me
-I'm a 17-year-old student in Germany who wants to become a data scientist. Ever since I began coding at the age of 14, I have developed a strong interest in Python, technology, and problem-solving I earned 1000+ points in codewars. My journey started when I attempted to create a small shooter game in Unreal Engine 4 with friends,. Since then, I've turned my attention to machine learning and data analysis.
+I'm a 18 years old student in Germany who wants to become a data scientist. Ever since I began coding at the age of 14, I have developed a strong interest in Python, technology, and problem-solving I earned 1000+ points in codewars. My journey started when I attempted to create a small shooter game in Unreal Engine 4 with friends,. Since then, I've turned my attention to machine learning and data analysis.
 
 
 ##  Interests
